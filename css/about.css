@@ -1,0 +1,16 @@
+h1{
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    font-size: 100px;
+    text-shadow: 5px 5px white;
+    margin: 0px;
+}
+
+.words{
+    font-family: 'Arimo', sans-serif;
+    text-align: center;
+    letter-spacing: 10px;
+    text-shadow: 5px 5px white;
+    margin: 0px; 
+}
